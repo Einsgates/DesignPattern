@@ -56,8 +56,7 @@
    - 传输对象模式 Transfer Object Pattern
 
 5. 各模式关系
-
-   ![设计模式之间关系](C:\Users\Asus\DesignPattern\photos\设计模式之间关系.png)
+![image](https://github.com/Einsgates/DesignPattern/blob/master/photos/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E9%97%B4%E5%85%B3%E7%B3%BB.png)
 
 ## 2.设计原则
 
