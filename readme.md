@@ -57,7 +57,7 @@
 
 5. 各模式关系
 
-   ![image-20210217161750181](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210217161750181.png)
+   ![设计模式之间关系](C:\Users\Asus\DesignPattern\photos\设计模式之间关系.png)
 
 ## 2.设计原则
 
