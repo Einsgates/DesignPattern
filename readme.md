@@ -1,0 +1,1 @@
+record my learning of Design Pattern
