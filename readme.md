@@ -56,8 +56,7 @@
    - 传输对象模式 Transfer Object Pattern
 
 5. 各模式关系
-
- https://github.com/Einsgates/DesignPattern/blob/master/photos/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E9%97%B4%E5%85%B3%E7%B3%BB.png
+![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
 
 ## 2.设计原则
 
