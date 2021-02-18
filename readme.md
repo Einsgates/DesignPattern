@@ -6,7 +6,7 @@
 
    **提供了一种在创建对象时隐藏创建逻辑的方式，而不是使用 new 运算符直接实例化对象。**
 
-   - 工厂模式 Factory Pattern
+   - [工厂模式 Factory Pattern](https://github.com/Einsgates/DesignPattern/blob/master/Factory%20Pattern/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
    - 抽象工厂模式 Abstract Factory Pattern
    - 单例模式 Singleton Pattern
    - 建造者模式 Builder Pattern
