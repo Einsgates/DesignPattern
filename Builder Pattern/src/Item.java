@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface Item {
+public interface Item {
+    public String name();
+    public Packing packing();
+    public float price();
 }
