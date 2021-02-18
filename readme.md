@@ -8,7 +8,7 @@
 
    - [工厂模式 Factory Pattern](https://github.com/Einsgates/DesignPattern/blob/master/Factory%20Pattern/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
    - [抽象工厂模式 Abstract Factory Pattern](https://github.com/Einsgates/DesignPattern/blob/master/Abstract%20Factory%20Pattern/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
-   - 单例模式 Singleton Pattern
+   - [单例模式 Singleton Pattern](https://github.com/Einsgates/DesignPattern/blob/master/Singleton%20Pattern/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
    - 建造者模式 Builder Pattern
    - 原型模式 Prototype Pattern
 
